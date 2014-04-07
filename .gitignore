@@ -1,2 +1,6 @@
 proj.win32/Debug.win32/
 proj.win32/Release.win32/
+proj.android/assets/
+proj.android/libs/
+proj.android/obj/
+*~
